@@ -22,4 +22,4 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </div></br>
 
-I am currently working as an intern at Vision System and studying Computer Science at UFFS
+I am currently working as an intern at Unochapecó and studying Computer Science at UFFS
